@@ -35,11 +35,14 @@
 
 ### 📬 Connect with Me:
 - 📧 Email: prernapatil2608@gmail.com 
-- 💼 [LinkedIn](https://www.linkedin.com/in/prerna-patil26) 
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prerna-patil26/)[LinkedIn]
 
 ---
 
 ⭐ **Star my repositories if you find them useful!** ⭐
 
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prerna-patil26&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prerna-patil26&layout=compact&theme=radical)
+-->
+ 
