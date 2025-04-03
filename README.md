@@ -24,6 +24,11 @@
    - Visualized key trends using **Seaborn & Matplotlib**
 
 
+📌 **[Blinkit Grocery Data Analysis](https://github.com/prerna-patil26/Blinkit-Grocery-Analysis)**
+   - Analyzed grocery sales, customer behavior, and delivery trends using **SQL, Excel & Power BI** 🛒📊
+   - Created interactive dashboards to visualize sales performance, payment methods, and delivery efficiency
+
+
 ---
 
 ### 🛠️ Tech Stack:
