@@ -1,6 +1,7 @@
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Prerna+Patil!+👋;Aspiring+Data+Analyst+%26+Data+Scientist;MCA+Student+%7C+AI+%26+Data+Science+Enthusiast;Passionate+about+Turning+Data+into+Insights+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=600&lines=Hi+there%2C+I'm+Prerna+Patil!+👋;Aspiring+Data+Analyst+%26+Data+Scientist;MCA+Student+%7C+AI+%26+Data+Science+Enthusiast;Passionate+about+Turning+Data+into+Insights+🚀" />
 </h1>
+
 
 ---
 
