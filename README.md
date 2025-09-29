@@ -17,11 +17,12 @@
 📌 **[Car Price Prediction](https://github.com/prerna-patil26/car-price-prediction)**  
    🚗💰 ML model predicting car prices using **Python, Pandas, Scikit-learn, Matplotlib**
 
-📌 **[EDA on Student Performance](https://github.com/prerna-patil26/student-performance-eda)**  
-   📈📊 In-depth EDA on student performance dataset with **Seaborn & Matplotlib**
+📌 **[DocuMind-AI (ChatPDF GenAI App)](https://github.com/prerna-patil26/DocuMind-AI)**  
+   📄🤖 GenAI app to chat with **PDF, DOCX, TXT & Images** using **LLMs & LangChain**
 
-📌 **[Blinkit Grocery Analysis](https://github.com/prerna-patil26/Blinkit-Grocery-Analysis)**  
-   🛒📊 Sales & customer behavior analysis using **SQL, Excel & Power BI** + Interactive dashboards  
+📌 **[Fake News Detection](https://github.com/prerna-patil26/Fake-News-Detection)**  
+   📰🔍 NLP-based project to detect **real vs fake news** using **ML & Text Processing**
+
 
 ---
 
