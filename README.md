@@ -1,52 +1,52 @@
-### Hi there, I'm Prerna Patil! 👋
-
-🚀 **Aspiring Data Analyst & Data Scientist**  
-📊 Passionate about turning data into actionable insights!  
-
----
-
-### 🔥 About Me:
-- 🎓 MCA Student | Enthusiastic about Data Science & Machine Learning
-- 🧠 Skilled in **Python, SQL, Power BI, Excel, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn**
-- 📊 Interested in **Data Analysis, Exploratory Data Analysis (EDA), Machine Learning, and NLP**
-- 🌱 Learning **Machine Learning & Deep Learning**
-- ✨ Open to **collaborations** & **open-source contributions**
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Prerna+Patil!+👋;Aspiring+Data+Analyst+%26+Data+Scientist;MCA+Student+%7C+AI+%26+Data+Science+Enthusiast;Passionate+about+Turning+Data+into+Insights+🚀" />
+</h1>
 
 ---
 
-### 📂 My Projects:
+## 🔥 About Me
+- 🎓 MCA Student | Enthusiastic about **Data Science & Machine Learning**  
+- 🧠 Skilled in: **Python, SQL, Power BI, Excel, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn**  
+- 📊 Interests: **Data Analysis, Exploratory Data Analysis (EDA), Machine Learning, NLP**  
+- 🌱 Currently Learning: **Machine Learning & Deep Learning**  
+- ✨ Open to: **Collaborations & Open-Source Contributions**  
+
+---
+
+## 📂 My Projects
 📌 **[Car Price Prediction](https://github.com/prerna-patil26/car-price-prediction)**  
-   - Built a machine learning model to predict car prices based on various factors 🚗💰
-   - Used **Python, Pandas, Scikit-learn, Matplotlib**
+   🚗💰 ML model predicting car prices using **Python, Pandas, Scikit-learn, Matplotlib**
 
-📌 **[EDA on Student Performance Dataset](https://github.com/prerna-patil26/student-performance-eda)**  
-   - Performed exploratory data analysis (EDA) on student performance data 📈📊
-   - Visualized key trends using **Seaborn & Matplotlib**
+📌 **[EDA on Student Performance](https://github.com/prerna-patil26/student-performance-eda)**  
+   📈📊 In-depth EDA on student performance dataset with **Seaborn & Matplotlib**
 
-
-📌 **[Blinkit Grocery Data Analysis](https://github.com/prerna-patil26/Blinkit-Grocery-Analysis)**
-   - Analyzed grocery sales, customer behavior, and delivery trends using **SQL, Excel & Power BI** 🛒📊
-   - Created interactive dashboards to visualize sales performance, payment methods, and delivery efficiency
-
+📌 **[Blinkit Grocery Analysis](https://github.com/prerna-patil26/Blinkit-Grocery-Analysis)**  
+   🛒📊 Sales & customer behavior analysis using **SQL, Excel & Power BI** + Interactive dashboards  
 
 ---
 
-### 🛠️ Tech Stack:
-- **Languages:** Python, SQL
-- **Libraries & Frameworks:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
-- **Tools:** Power BI, Excel, Jupyter Notebook, Git & GitHub
+## 🛠️ Tech Stack
+**Languages:** Python, SQL  
+**Libraries & Frameworks:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn  
+**Tools:** Power BI, Excel, Jupyter Notebook, Git & GitHub  
 
 ---
 
-### 📬 Connect with Me:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prerna-patil26/)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prerna-patil26&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerna-patil26&layout=compact&theme=radical" height="180em" />
+</p>
+
+---
+
+## 📬 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/prerna-patil26/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ⭐ **Star my repositories if you find them useful!** ⭐
-
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prerna-patil26&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prerna-patil26&layout=compact&theme=radical)
--->
- 
